@@ -248,7 +248,6 @@ export default {
   &-titlewrap {
     position: absolute;
     top: 0;
-    width: 400px;
 
     @media (max-width: 768px) {
       position: initial;
