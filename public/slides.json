@@ -7,31 +7,38 @@
     "link": "https://focamu.com"
   },
   {
-    "id": 1,
+    "id": 2,
+    "title": "HUCOA",
+    "cover": "/hucoa.jpg",
+    "description": "Site vitrine pour L'ONG Humanité au coeur de nos actions",
+    "link": "https://hucoa.netlify.app"
+  },
+  {
+    "id": 3,
     "title": "Małgorzata Orzechowska",
     "cover": "/psycho.jpg",
     "description": "Landing Page pour le compte d'une psychologue.",
-    "link": "https://malorgazatapsychotherapy.netlify.app/"
+    "link": "https://malorgazatapsychotherapy.netlify.app"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Walde Maroowo",
     "cover": "/walde.jpg",
     "description": "Site vitrine pour une ONG agricole pour la promotion de leur services.",
     "link": "https://walde-maroowo.netlify.app"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "RQP Skateclub",
     "cover": "/rqp.jpg",
     "description": "Site vitrine pour une association Lyonnaise de skateboard.",
     "link": "https://rqp-skateclub.netlify.app"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Covers not dead",
     "cover": "/coversnotdead.jpg",
     "description": "Gaming app pour les fans de musique rock.",
-    "link": "https://coversnotdead.vercel.app/"
+    "link": "https://coversnotdead.vercel.app"
   }
 ]

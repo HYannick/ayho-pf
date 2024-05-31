@@ -35,6 +35,12 @@ export default {
           slicesOrigin: {show: 'top', hide: 'top'}
         },
         {
+          slicesTotal: 3,
+          slicesColor: '#fff',
+          orientation: 'horizontal',
+          slicesOrigin: {show: 'right', hide: 'left'}
+        },
+        {
           slicesTotal: 8,
           slicesColor: '#fff',
           orientation: 'horizontal',
