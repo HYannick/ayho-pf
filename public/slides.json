@@ -4,14 +4,14 @@
     "title": "Focamu",
     "cover": "/focamu.jpg",
     "description": "Application d’apprentissage des musiques de Capoeira.\nProjet fait en partenariat avec Senzala Lyon\n",
-    "link": "https://focamu.com"
+    "link": "https://focamu.co"
   },
   {
     "id": 2,
     "title": "HUCOA",
     "cover": "/hucoa.jpg",
     "description": "Site vitrine pour L'ONG Humanité au coeur de nos actions",
-    "link": "https://hucoa.netlify.app"
+    "link": "https://hucoa-deno.netlify.app/"
   },
   {
     "id": 3,
@@ -32,7 +32,7 @@
     "title": "RQP Skateclub",
     "cover": "/rqp.jpg",
     "description": "Site vitrine pour une association Lyonnaise de skateboard.",
-    "link": "https://rqp-skateclub.netlify.app"
+    "link": "https://rqp-skateclub.fr"
   },
   {
     "id": 6,
