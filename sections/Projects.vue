@@ -9,6 +9,7 @@
           <h2 class="grid__item-title">{{ item.title }}</h2>
           <div class="grid__item-description">
             <p>{{ item.description }}</p>
+            <p class="item-stack">{{ item.stack}}</p>
             <a :href="item.link" target="_blank" class="btn">Voir le projet</a>
           </div>
         </div>
@@ -203,6 +204,11 @@ export default {
 </script>
 
 <style lang="scss">
+.item-stack {
+  font-size: 1.2rem;
+  font-weight: 100;
+  margin: 10px 0 20px;
+}
 .content {
   position: relative;
   display: flex;
